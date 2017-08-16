@@ -32,7 +32,7 @@ Không có
 
 # Example
 
-GET http://localhost:8080/umbraco/api/services/detail/1
+GET http://118.70.170.147:8089/umbraco/api/services/detail/1
 
 ```
 {
